@@ -1,5 +1,7 @@
 # QT Application created for CSC 3380 that uses a hardcoded username and password
 
+[![project unmaintained](https://img.shields.io/badge/project-unmaintained-red.svg)](https://img.shields.io/badge/project-unmaintained-red.svg)
+
 ## How to compile
 
 I used Qt 4.7 to create my GUI login application. Qt 4.7 can be found at
