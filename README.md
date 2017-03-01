@@ -1,6 +1,6 @@
-# QT Application created for CSC 3380 that uses a hardcoded username and password
-
 [![project unmaintained](https://img.shields.io/badge/project-unmaintained-red.svg)](https://img.shields.io/badge/project-unmaintained-red.svg)
+
+# QT Application created for CSC 3380 that uses a hardcoded username and password
 
 ## How to compile
 
